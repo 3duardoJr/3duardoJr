@@ -25,5 +25,5 @@
   <a href="https://is.gd/XHBiTB" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
   </a>
   
-  ![Snake animation](https://github.com/3duardoJr/3duardoJro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/3duardoJr/3duardoJr/blob/output/github-contribution-grid-snake.svg)
 </div>
