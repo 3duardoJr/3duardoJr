@@ -13,7 +13,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-Rb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
-  <img align="center" alt="Edu-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="Edu-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python3/python-plain.svg">
   <img align="right" alt="Edu-gif" height="200" width="200" src="https://media.giphy.com/media/UHFghrnINQp7OxvpoP/giphy.gif?cid=790b761121c1c55455378bd731d8e7a4e3548f8394cd3826&rid=giphy.gif&ct=g">
 </div>
 
