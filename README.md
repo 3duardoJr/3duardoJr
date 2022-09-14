@@ -3,7 +3,6 @@
 
 - 📚 I'm currently learning **French, Bootstrap, PHP...**
 - 🌱 Cursando Ciencia da Computação - (UENF)
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href ="https://github.com/3duardoJr">
