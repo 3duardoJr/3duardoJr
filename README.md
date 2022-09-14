@@ -1,7 +1,7 @@
 ## Eduardo Ferreira
 
 
-- 📚 I'm currently learning **French, Bootstrap, PHP...**
+- 📚 I'm currently learning **French, Bootstrap, PHP, Laravel...**
 - 🌱 Cursando Ciencia da Computação - (UENF)
 
 <div>
