@@ -1,7 +1,7 @@
 ## Eduardo Ferreira
 
 
-
+- 📚 I'm currently learning **French, Bootstrap, PHP...**
 - 🌱 Cursando Ciencia da Computação - (UENF)
 - 😄 Pronouns: ele/dele
 
