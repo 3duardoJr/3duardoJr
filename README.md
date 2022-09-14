@@ -33,11 +33,11 @@
   ##
   
 <div>
-   <a href="https://discord.gg/QEUpQU6ZUg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href="https://is.gd/jbQrVI" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
-  </a> 
-  <a href="https://is.gd/XHBiTB" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
-  </a>
+  <a href="https://www.instagram.com/3duardojrdev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target=_blank></a>
+  <a href="https://www.linkedin.com/in/eduardo-ferreira-886433250/"><img src="hhttps://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target=_blank></a>
+  <a href="https://pt.stackoverflow.com/users/305182/3duardojr"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target=_blank></a>
+  <a href="https://twitter.com/3duardoJr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target=_blank></a>
+  <a href="discordapp.com/users/3du#1306"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target=_blank></a>
   
   ![Snake animation](https://github.com/3duardoJr/3duardoJr/blob/output/github-contribution-grid-snake.svg)
 </div>
