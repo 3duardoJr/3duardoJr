@@ -28,7 +28,7 @@
   
   ##
 <div>
-  <img align="right" alt="Edu-gif" height="132" width="132" src="https://media.giphy.com/media/kTk0h7oeT85mybZQqN/giphy.gif">
+  <img align="right" alt="Edu-gif" height="120" width="120" src="https://media.giphy.com/media/kTk0h7oeT85mybZQqN/giphy.gif">
   <a href="https://www.instagram.com/3duardojrdev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target=_blank></a>
   <a href="https://www.linkedin.com/in/eduardo-ferreira-886433250/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target=_blank></a>
   <a href="https://pt.stackoverflow.com/users/305182/3duardojr"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target=_blank></a>
