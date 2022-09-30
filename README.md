@@ -36,8 +36,11 @@
  
 
   ![Snake animation](https://github.com/3duardoJr/3duardoJr/blob/output/github-contribution-grid-snake.svg)
-</div>
-
-<div>
-
+ 
+  <a href="https://br.evga.com/products/product.aspx?pn=06G-P4-6163-RX"><img src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" target=_blank></a>
+ <a href="https://www.amd.com/pt/products/cpu/amd-ryzen-5-2600"><img src="https://img.shields.io/badge/AMD-Ryzen_5_2600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" target=_blank></a>
+ <a href="https://www.kabum.com.br/produto/156097/notebook-acer-aspire-3-amd-ryzen-7-3700u-8gb-ram-ssd-256gb-nvme-15-6-hd-radeon-vega-10-graphic-windows-10-home-preto-a315-23-r3l9"><img src="https://img.shields.io/badge/Opensuse-ACER_Aspire_3-0078D6?style=for-the-badge&logo=opensuse&logoColor=white" target=_blank></a>
+  <a href="https://get.opensuse.org/tumbleweed/"><img src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white" target=_blank></a>
+ 
+ 
 </div>
