@@ -1,7 +1,7 @@
 ## Eduardo Ferreira
 
 
-- 📚 I'm currently learning **French, React, Laravel...**
+- 📚 I'm currently learning **French, React, C#...**
 - 🌱 Cursando Ciencia da Computação - (UENF)
 
 <div>
