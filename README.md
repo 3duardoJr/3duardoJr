@@ -3,6 +3,7 @@
 
 - 📚 I'm currently learning **French, Python and R...**
 - 🌱 Cursando Ciencia da Computação - (UENF)
+- 🧬 Entusiasta em Bioinformática e Visão Computacional
 
 <div>
   <a href ="https://github.com/3duardoJr">
