@@ -1,7 +1,7 @@
 ## Eduardo Ferreira
 
 
-- 📚 Atualmente estudando **Ruby...**
+- 📚 Atualmente estudando **Golang...**
 - 🌱 Cursando **Ciencia da Computação** - (UENF)
 
 <div>
